@@ -7,15 +7,15 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshulx27) 
 
-# 💻 Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,github,cpp,html,css,js,vscode)](https://skillicons.dev)
+# 💻 Tech Stack:</p>
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,github,cpp,html,css,js,vscode)](https://skillicons.dev) </p>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnshulOP&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnshulOP&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AnshulOP&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnshulOP&theme=react&hide_border=false)<br/></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulOP&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # 📈 GitHub Activity:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshulOP&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
