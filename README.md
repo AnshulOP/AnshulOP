@@ -4,7 +4,7 @@
 🔭 I’m currently working on Machine Learning models & Deep Learning related stuff.<br>🌱 I’m want to learn more about Cloud Systems and DevOps.<br>🧑‍💻 I’m want to pursue my career as Full Stack Data Scientist.<br>🤝 I have beginner friendly Repos that will help you to get started with Machine Learning and DSA.<br>💬 Ask me about Machine Learning or any Problem Solving related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: Data science is like a detective story, where the data is the evidence, and the model is the solution to the mystery.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshulx27) 
 
 # 💻 Tech Stack:</p>
