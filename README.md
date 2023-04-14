@@ -25,6 +25,3 @@
 
 ### ✍️ Random Dev Quote
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### 🤔 Random Riddle
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=nord)](https://github.com/CodeWhiteWeb/github-readme-riddle)
