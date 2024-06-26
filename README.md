@@ -5,10 +5,11 @@
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshulx27) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshulkalia121/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshulx27)
 
 # 💻 Tech Stack:</p>
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,github,cpp,html,css,js,vscode)](https://skillicons.dev) </p>
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,tensorflow,flask,gcp,github,cpp,html,css,js,vscode,pycharm,anaconda)](https://skillicons.dev) </p>
 
 
 # 📊 GitHub Stats:
@@ -18,7 +19,7 @@
 
 
 # 📈 GitHub Activity:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshulOP&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshulOP&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshulOP&theme=nord&no-frame=false&no-bg=true&margin-w=4)
