@@ -27,4 +27,4 @@
 ### ✍️ Random Dev Quote
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![](https://visitcount.itsvg.in/api?id=AnshulOP&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AnshulOP)
